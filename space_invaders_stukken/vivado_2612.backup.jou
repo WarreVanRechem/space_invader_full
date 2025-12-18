@@ -1,0 +1,18 @@
+#-----------------------------------------------------------
+# Vivado v2019.2 (64-bit)
+# SW Build 2708876 on Wed Nov  6 21:40:23 MST 2019
+# IP Build 2700528 on Thu Nov  7 00:09:20 MST 2019
+# Start of session at: Sat Dec 13 13:05:38 2025
+# Process ID: 2612
+# Current directory: C:/Users/warre/Desktop/space_invaders_stukken
+# Command line: vivado.exe -gui_launcher_event rodinguilauncherevent21112 C:\Users\warre\Desktop\space_invaders_stukken\space_invaders_stukken.xpr
+# Log file: C:/Users/warre/Desktop/space_invaders_stukken/vivado.log
+# Journal file: C:/Users/warre/Desktop/space_invaders_stukken\vivado.jou
+#-----------------------------------------------------------
+start_gui
+open_project C:/Users/warre/Desktop/space_invaders_stukken/space_invaders_stukken.xpr
+reset_run clk_wiz_0_synth_1
+reset_run synth_1
+launch_runs synth_1 -jobs 16
+wait_on_run synth_1
+update_compile_order -fileset sources_1

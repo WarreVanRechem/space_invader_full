@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GenRun Id="impl_1" LaunchPart="xc7a35tcpg236-1" LaunchTime="1765709544">
+  <File Type="BITSTR-BMM" Name="space_invaders_bd.bmm"/>
+  <File Type="OPT-METHODOLOGY-DRC" Name="space_invaders_methodology_drc_opted.rpt"/>
+  <File Type="INIT-TIMING" Name="space_invaders_timing_summary_init.rpt"/>
+  <File Type="ROUTE-PWR" Name="space_invaders_power_routed.rpt"/>
+  <File Type="PA-TCL" Name="space_invaders.tcl"/>
+  <File Type="OPT-TIMING" Name="space_invaders_timing_summary_opted.rpt"/>
+  <File Type="OPT-DCP" Name="space_invaders_opt.dcp"/>
+  <File Type="ROUTE-PWR-SUM" Name="space_invaders_power_summary_routed.pb"/>
+  <File Type="REPORTS-TCL" Name="space_invaders_reports.tcl"/>
+  <File Type="OPT-DRC" Name="space_invaders_drc_opted.rpt"/>
+  <File Type="OPT-HWDEF" Name="space_invaders.hwdef"/>
+  <File Type="PWROPT-DCP" Name="space_invaders_pwropt.dcp"/>
+  <File Type="PWROPT-DRC" Name="space_invaders_drc_pwropted.rpt"/>
+  <File Type="PWROPT-TIMING" Name="space_invaders_timing_summary_pwropted.rpt"/>
+  <File Type="PLACE-DCP" Name="space_invaders_placed.dcp"/>
+  <File Type="PLACE-IO" Name="space_invaders_io_placed.rpt"/>
+  <File Type="PLACE-CLK" Name="space_invaders_clock_utilization_placed.rpt"/>
+  <File Type="PLACE-UTIL" Name="space_invaders_utilization_placed.rpt"/>
+  <File Type="PLACE-UTIL-PB" Name="space_invaders_utilization_placed.pb"/>
+  <File Type="PLACE-CTRL" Name="space_invaders_control_sets_placed.rpt"/>
+  <File Type="PLACE-SIMILARITY" Name="space_invaders_incremental_reuse_placed.rpt"/>
+  <File Type="PLACE-PRE-SIMILARITY" Name="space_invaders_incremental_reuse_pre_placed.rpt"/>
+  <File Type="PLACE-TIMING" Name="space_invaders_timing_summary_placed.rpt"/>
+  <File Type="POSTPLACE-PWROPT-DCP" Name="space_invaders_postplace_pwropt.dcp"/>
+  <File Type="BG-BIN" Name="space_invaders.bin"/>
+  <File Type="POSTPLACE-PWROPT-TIMING" Name="space_invaders_timing_summary_postplace_pwropted.rpt"/>
+  <File Type="PHYSOPT-DCP" Name="space_invaders_physopt.dcp"/>
+  <File Type="PHYSOPT-DRC" Name="space_invaders_drc_physopted.rpt"/>
+  <File Type="BITSTR-MSK" Name="space_invaders.msk"/>
+  <File Type="PHYSOPT-TIMING" Name="space_invaders_timing_summary_physopted.rpt"/>
+  <File Type="ROUTE-ERROR-DCP" Name="space_invaders_routed_error.dcp"/>
+  <File Type="ROUTE-DCP" Name="space_invaders_routed.dcp"/>
+  <File Type="ROUTE-BLACKBOX-DCP" Name="space_invaders_routed_bb.dcp"/>
+  <File Type="ROUTE-DRC" Name="space_invaders_drc_routed.rpt"/>
+  <File Type="ROUTE-DRC-PB" Name="space_invaders_drc_routed.pb"/>
+  <File Type="ROUTE-DRC-RPX" Name="space_invaders_drc_routed.rpx"/>
+  <File Type="BITSTR-MMI" Name="space_invaders.mmi"/>
+  <File Type="ROUTE-METHODOLOGY-DRC" Name="space_invaders_methodology_drc_routed.rpt"/>
+  <File Type="ROUTE-METHODOLOGY-DRC-RPX" Name="space_invaders_methodology_drc_routed.rpx"/>
+  <File Type="ROUTE-METHODOLOGY-DRC-PB" Name="space_invaders_methodology_drc_routed.pb"/>
+  <File Type="ROUTE-PWR-RPX" Name="space_invaders_power_routed.rpx"/>
+  <File Type="ROUTE-STATUS" Name="space_invaders_route_status.rpt"/>
+  <File Type="ROUTE-STATUS-PB" Name="space_invaders_route_status.pb"/>
+  <File Type="ROUTE-TIMINGSUMMARY" Name="space_invaders_timing_summary_routed.rpt"/>
+  <File Type="ROUTE-TIMING-PB" Name="space_invaders_timing_summary_routed.pb"/>
+  <File Type="ROUTE-TIMING-RPX" Name="space_invaders_timing_summary_routed.rpx"/>
+  <File Type="ROUTE-SIMILARITY" Name="space_invaders_incremental_reuse_routed.rpt"/>
+  <File Type="ROUTE-CLK" Name="space_invaders_clock_utilization_routed.rpt"/>
+  <File Type="ROUTE-BUS-SKEW" Name="space_invaders_bus_skew_routed.rpt"/>
+  <File Type="ROUTE-BUS-SKEW-PB" Name="space_invaders_bus_skew_routed.pb"/>
+  <File Type="ROUTE-BUS-SKEW-RPX" Name="space_invaders_bus_skew_routed.rpx"/>
+  <File Type="POSTROUTE-PHYSOPT-DCP" Name="space_invaders_postroute_physopt.dcp"/>
+  <File Type="POSTROUTE-PHYSOPT-BLACKBOX-DCP" Name="space_invaders_postroute_physopt_bb.dcp"/>
+  <File Type="POSTROUTE-PHYSOPT-TIMING" Name="space_invaders_timing_summary_postroute_physopted.rpt"/>
+  <File Type="POSTROUTE-PHYSOPT-TIMING-PB" Name="space_invaders_timing_summary_postroute_physopted.pb"/>
+  <File Type="POSTROUTE-PHYSOPT-TIMING-RPX" Name="space_invaders_timing_summary_postroute_physopted.rpx"/>
+  <File Type="POSTROUTE-PHYSOPT-BUS-SKEW" Name="space_invaders_bus_skew_postroute_physopted.rpt"/>
+  <File Type="POSTROUTE-PHYSOPT-BUS-SKEW-PB" Name="space_invaders_bus_skew_postroute_physopted.pb"/>
+  <File Type="BG-BIT" Name="space_invaders.bit"/>
+  <File Type="POSTROUTE-PHYSOPT-BUS-SKEW-RPX" Name="space_invaders_bus_skew_postroute_physopted.rpx"/>
+  <File Type="BITSTR-RBT" Name="space_invaders.rbt"/>
+  <File Type="BITSTR-NKY" Name="space_invaders.nky"/>
+  <File Type="PDI-FILE" Name="space_invaders.pdi"/>
+  <File Type="RCFI_FILE" Name="space_invaders.rcfi"/>
+  <File Type="CFI_FILE" Name="space_invaders.cfi"/>
+  <File Type="RNPI_FILE" Name="space_invaders.rnpi"/>
+  <File Type="NPI_FILE" Name="space_invaders.npi"/>
+  <File Type="RBD_FILE" Name="space_invaders.rbd"/>
+  <File Type="BITSTR-LTX" Name="debug_nets.ltx"/>
+  <File Type="BITSTR-LTX" Name="space_invaders.ltx"/>
+  <File Type="BITSTR-SYSDEF" Name="space_invaders.sysdef"/>
+  <File Type="BG-BGN" Name="space_invaders.bgn"/>
+  <File Type="BG-DRC" Name="space_invaders.drc"/>
+  <File Type="RDI-RDI" Name="space_invaders.vdi"/>
+  <File Type="WBT-USG" Name="usage_statistics_webtalk.html"/>
+  <FileSet Name="sources" Type="DesignSrcs" RelSrcDir="$PSRCDIR/sources_1">
+    <Filter Type="Srcs"/>
+    <File Path="$PSRCDIR/sources_1/new/bullet_controller.vhd">
+      <FileInfo>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PSRCDIR/sources_1/new/debouncer.vhd">
+      <FileInfo>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PSRCDIR/sources_1/new/enemy_bullet_controller.vhd">
+      <FileInfo>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PSRCDIR/sources_1/new/enemy_controller.vhd">
+      <FileInfo>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PSRCDIR/sources_1/new/game_logic_controller.vhd">
+      <FileInfo>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PSRCDIR/sources_1/new/pixel_generator.vhd">
+      <FileInfo>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PSRCDIR/sources_1/new/player_controller.vhd">
+      <FileInfo>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PSRCDIR/sources_1/new/vga_sync.vhd">
+      <FileInfo>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PSRCDIR/sources_1/new/space_invader.vhd">
+      <FileInfo>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <Config>
+      <Option Name="DesignMode" Val="RTL"/>
+      <Option Name="TopModule" Val="space_invaders"/>
+      <Option Name="TopAutoSet" Val="TRUE"/>
+    </Config>
+  </FileSet>
+  <FileSet Name="constrs_in" Type="Constrs" RelSrcDir="$PSRCDIR/constrs_1">
+    <Filter Type="Constrs"/>
+    <File Path="$PPRDIR/../../Desktop/school/dsd/Basys3.xdc">
+      <FileInfo>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="implementation"/>
+      </FileInfo>
+    </File>
+    <Config>
+      <Option Name="ConstrsType" Val="XDC"/>
+    </Config>
+  </FileSet>
+  <FileSet Name="utils" Type="Utils" RelSrcDir="$PSRCDIR/utils_1">
+    <Filter Type="Utils"/>
+    <Config>
+      <Option Name="TopAutoSet" Val="TRUE"/>
+    </Config>
+  </FileSet>
+  <Strategy Version="1" Minor="2">
+    <StratHandle Name="Vivado Implementation Defaults" Flow="Vivado Implementation 2019"/>
+    <Step Id="init_design"/>
+    <Step Id="opt_design"/>
+    <Step Id="power_opt_design"/>
+    <Step Id="place_design"/>
+    <Step Id="post_place_power_opt_design"/>
+    <Step Id="phys_opt_design" EnableStepBool="1"/>
+    <Step Id="route_design"/>
+    <Step Id="post_route_phys_opt_design"/>
+    <Step Id="write_bitstream"/>
+  </Strategy>
+  <BlockFileSet Type="BlockSrcs" Name="clk_wiz_0"/>
+</GenRun>

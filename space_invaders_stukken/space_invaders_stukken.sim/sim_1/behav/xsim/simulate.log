@@ -1,0 +1,6 @@
+Vivado Simulator 2019.2
+Time resolution is 1 ps
+Note: Start Test 1: Active Video
+Time: 100 ns  Iteration: 0  Process: /tb_pixel_generator/stim_proc  File: C:/Users/warre/Documents/space_invaders_stukken/space_invaders_stukken.srcs/sim_1/new/tb_pixel_generator.vhd
+Note: Start Test 2: Blanking Interval
+Time: 740 ns  Iteration: 0  Process: /tb_pixel_generator/stim_proc  File: C:/Users/warre/Documents/space_invaders_stukken/space_invaders_stukken.srcs/sim_1/new/tb_pixel_generator.vhd

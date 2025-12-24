@@ -1,0 +1,15 @@
+# compile vhdl design source files
+vhdl xil_defaultlib  \
+"../../../../space_invaders_stukken.srcs/sources_1/new/bullet_controller.vhd" \
+"../../../../space_invaders_stukken.srcs/sources_1/new/enemy_bullet_controller.vhd" \
+"../../../../space_invaders_stukken.srcs/sources_1/new/enemy_controller.vhd" \
+"../../../../space_invaders_stukken.srcs/sources_1/new/game_logic_controller.vhd" \
+"../../../../space_invaders_stukken.srcs/sources_1/new/pixel_generator.vhd" \
+"../../../../space_invaders_stukken.srcs/sources_1/new/player_controller.vhd" \
+"../../../../space_invaders_stukken.srcs/sources_1/new/space_invader.vhd" \
+"../../../../space_invaders_stukken.srcs/sim_1/new/tb_debouncer.vhd" \
+"../../../../space_invaders_stukken.srcs/sources_1/new/vga_sync.vhd" \
+"../../../../space_invaders_stukken.srcs/sim_1/new/tb_space_invaders.vhd" \
+
+# Do not sort compile order
+nosort

@@ -1,0 +1,7 @@
+# compile vhdl design source files
+vhdl xil_defaultlib  \
+"../../../../space_invaders_stukken.srcs/sources_1/new/pixel_generator.vhd" \
+"../../../../space_invaders_stukken.srcs/sim_1/new/tb_pixel_generator.vhd" \
+
+# Do not sort compile order
+nosort
